@@ -5,6 +5,7 @@
 #dropzone{display:flex;min-height:126px;flex-direction:column;align-items:center;justify-content:center;gap:5px;margin:12px 0;border:2px dashed #a9bfba;border-radius:12px;background:#f6faf8;text-align:center;cursor:pointer;padding:15px;color:#344144}#dropzone strong{font-size:14px}#dropzone span{font-size:12px}#dropzone small{font-size:11px;letter-spacing:normal;color:#63736e}#dropzone:hover,#dropzone.dragover,#dropzone:focus-visible{border-color:#246f70;background:#eaf5f0;outline:none}#dropzone.has-photo{border-style:solid}.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 
 #config{max-width:560px;max-height:calc(100vh - 32px);overflow:auto}
+#aiSettings{margin:12px 0;padding:10px;border:1px solid #dce5e0;border-radius:9px;background:#f7faf8;font-size:12px}#aiSettings summary{cursor:pointer;font-weight:700;color:#246f70}#aiSettings label{margin:10px 0 4px}.ai-key-row{display:flex;gap:6px}.ai-key-row input{min-width:0;flex:1;border:1px solid #dcdad3;border-radius:8px;padding:8px}.ai-key-row button{font-size:12px}#clearGemini{margin-top:7px;font-size:12px}#geminiStatus{margin:8px 0 0}
 #config h3{font-size:15px;margin:0 0 10px}
 #config .setup{background:#f6f8f7;border:1px solid #e0e9e5;border-radius:10px;padding:15px;margin:16px 0}
 #config ol{margin:0;padding-left:22px;font-size:13px;line-height:1.5;color:#344144}

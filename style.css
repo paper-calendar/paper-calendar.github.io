@@ -14,5 +14,5 @@
 #config .origin{display:flex;align-items:center;gap:8px;margin-top:7px}
 #config .origin code{flex:1;min-width:0;overflow-wrap:anywhere;background:white;border:1px solid #dce5e0;border-radius:7px;padding:9px;font-size:12px}
 #config .origin button{font-size:12px;padding:8px}
-#config .actions{flex-wrap:wrap}
+#config .actions{position:sticky;bottom:-1px;flex-wrap:wrap;background:white;border-top:1px solid #eeeae2;margin:16px -25px 0;padding:12px 25px}
 @media(max-width:480px){#config .origin{display:block}#config .origin button{margin-top:6px}#config .actions button{flex:1}}

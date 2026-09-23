@@ -24,7 +24,7 @@
 
 ## GitHub Pages
 
-Загрузите файлы репозитория в **приватный или публичный репозиторий по собственному выбору**, откройте Settings → Pages и выберите Deploy from a branch, ветку `main`, папку `/ (root)`. После появления адреса Pages добавьте его origin в OAuth Client ID. В этом проекте нет личных фотографий и учётных данных. Публикация здесь не выполнялась.
+Сайт публикуется из ветки `main`, папки `/ (root)`, по адресу [paper-calendar.github.io](https://paper-calendar.github.io/). Для Google OAuth добавьте `https://paper-calendar.github.io` в **Authorized JavaScript origins** вашего OAuth Client ID. В репозитории нет личных фотографий и учётных данных.
 
 ## Приватность и ограничения
 
